@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\temp\\RecommendationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84965B42-61F8-4C47-9D3C-0389FECEFAD9}|RecommendationApp\\RecommendationApp.csproj|f:\\temp\\recommendationsystem\\recommendationapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84965B42-61F8-4C47-9D3C-0389FECEFAD9}|RecommendationApp\\RecommendationApp.csproj|solutionrelative:recommendationapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84965B42-61F8-4C47-9D3C-0389FECEFAD9}|RecommendationApp\\RecommendationApp.csproj|f:\\temp\\recommendationsystem\\recommendationapp\\modeloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84965B42-61F8-4C47-9D3C-0389FECEFAD9}|RecommendationApp\\RecommendationApp.csproj|solutionrelative:recommendationapp\\modeloutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4459B58-03C0-4431-BA96-E685B638D50F}|MLModel_WebApi\\MLModel_WebApi.csproj|f:\\temp\\recommendationsystem\\mlmodel_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4459B58-03C0-4431-BA96-E685B638D50F}|MLModel_WebApi\\MLModel_WebApi.csproj|solutionrelative:mlmodel_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84965B42-61F8-4C47-9D3C-0389FECEFAD9}|RecommendationApp\\RecommendationApp.csproj|f:\\temp\\recommendationsystem\\recommendationapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84965B42-61F8-4C47-9D3C-0389FECEFAD9}|RecommendationApp\\RecommendationApp.csproj|solutionrelative:recommendationapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4459B58-03C0-4431-BA96-E685B638D50F}|MLModel_WebApi\\MLModel_WebApi.csproj|f:\\temp\\recommendationsystem\\mlmodel_webapi\\mlmodel.mbconfig||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4459B58-03C0-4431-BA96-E685B638D50F}|MLModel_WebApi\\MLModel_WebApi.csproj|solutionrelative:mlmodel_webapi\\mlmodel.mbconfig||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\temp\\RecommendationSystem\\ProductRecommendationApp\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductRecommendationApp\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\temp\\RecommendationSystem\\MLModel_WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "MLModel_WebApi\\Program.cs",
+              "ToolTip": "F:\\temp\\RecommendationSystem\\MLModel_WebApi\\Program.cs",
+              "RelativeToolTip": "MLModel_WebApi\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:27:28.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelOutput.cs",
+              "DocumentMoniker": "F:\\temp\\RecommendationSystem\\RecommendationApp\\ModelOutput.cs",
+              "RelativeDocumentMoniker": "RecommendationApp\\ModelOutput.cs",
+              "ToolTip": "F:\\temp\\RecommendationSystem\\RecommendationApp\\ModelOutput.cs",
+              "RelativeToolTip": "RecommendationApp\\ModelOutput.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:09:11.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "F:\\temp\\RecommendationSystem\\RecommendationApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "RecommendationApp\\MainPage.xaml.cs",
+              "ToolTip": "F:\\temp\\RecommendationSystem\\RecommendationApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "RecommendationApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAhwCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:08:22.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "F:\\temp\\RecommendationSystem\\RecommendationApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "RecommendationApp\\MainPage.xaml",
+              "ToolTip": "F:\\temp\\RecommendationSystem\\RecommendationApp\\MainPage.xaml",
+              "RelativeToolTip": "RecommendationApp\\MainPage.xaml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-12T13:07:43.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MLModel.mbconfig",
+              "DocumentMoniker": "F:\\temp\\RecommendationSystem\\MLModel_WebApi\\MLModel.mbconfig",
+              "RelativeDocumentMoniker": "MLModel_WebApi\\MLModel.mbconfig",
+              "ToolTip": "F:\\temp\\RecommendationSystem\\MLModel_WebApi\\MLModel.mbconfig",
+              "RelativeToolTip": "MLModel_WebApi\\MLModel.mbconfig",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAowIgAAAA2AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2024-03-12T12:54:38.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "F:\\temp\\RecommendationSystem\\ProductRecommendationApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProductRecommendationApp\\MainPage.xaml.cs",
+              "ToolTip": "F:\\temp\\RecommendationSystem\\ProductRecommendationApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "ProductRecommendationApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:04:28.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

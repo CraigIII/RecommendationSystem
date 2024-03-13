@@ -1,0 +1,37 @@
+﻿<h3>電影評論預估資料</h3>
+<br />
+<div class="container">
+    <div class="form-group">
+        <label class="form-label">User Id:</label>
+        <input id="userId" value="1" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label class="form-label">Movie Id:</label>
+        <input id="movieId" value="3" class="form-control" />
+    </div>
+    <div class="form-group">
+        <button id="predict" class="btn btn-success">預測</button>
+    </div>
+</div>
+@section Scripts
+{
+    <script>
+        var baseAddress = "https://localhost:7073";		//MVC網站的網址
+        $("#predict").on("click", function () {//處理button被按下引發的click事件
+            var input = {					//準備電影評論預估資料
+                userId:$("#userId").val(),
+                movieId:$("#movieId").val(),
+            };
+            $.ajax({					//發送ajax呼叫
+                type:"post",
+                url: `${baseAddress}/Home/PredictMovieRating`,
+                data: input,
+            }).done(function (data) { 			//處理呼叫成功收到的結果
+                //alert(JSON.stringify(data));
+                alert(`評論分數:${(data["score"]).toFixed(2)}`)
+            }).fail(function (err) { 			//處理呼叫發生的錯誤
+                alert(err.statusText);
+            });
+        });
+    </script>
+}
